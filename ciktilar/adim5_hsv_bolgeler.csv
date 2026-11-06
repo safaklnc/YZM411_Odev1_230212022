@@ -1,0 +1,13 @@
+﻿koşul,bölge,H medyanı,S medyanı,V medyanı
+normal,sarı kapak,24,210,220
+normal,kitap kapağı (krem),25,55,214
+normal,kitap kapağı (beyaz),22,28,224
+normal,beyaz masa,26,17,206
+gölge,sarı kapak,24,218,174
+gölge,kitap kapağı (krem),26,54,167
+gölge,kitap kapağı (beyaz),21,29,173
+gölge,beyaz masa,30,12,171
+farklı ışık,sarı kapak,22,197,71
+farklı ışık,kitap kapağı (krem),36,16,78
+farklı ışık,kitap kapağı (beyaz),103,24,69
+farklı ışık,beyaz masa,103,22,83

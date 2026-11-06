@@ -1,0 +1,15 @@
+﻿deney,koşul,ölçüm,değer
+Adım 5 maske,normal / RGB,alan oranı (%),10.94
+Adım 5 maske,normal / HSV,alan oranı (%),11.92
+Adım 5 maske,gölge / RGB,alan oranı (%),0.33
+Adım 5 maske,gölge / HSV,alan oranı (%),11.69
+Adım 5 maske,farklı ışık / RGB,alan oranı (%),0.0
+Adım 5 maske,farklı ışık / HSV,alan oranı (%),0.0
+Adım 6 dönüşüm,özgün,ortalama (tahmin / ölçüm),yok / 193.44
+Adım 6 dönüşüm,b=+40,ortalama (tahmin / ölçüm),233.44 / 232.15
+Adım 6 dönüşüm,γ=0.5,ortalama (tahmin / ölçüm),222.1 / 220.07
+Adım 6 dönüşüm,γ=2.0,ortalama (tahmin / ölçüm),146.74 / 153.17
+Adım 7 küçültme,yazı / INTER_NEAREST,PSNR (dB),14.5
+Adım 7 küçültme,yazı / INTER_AREA,PSNR (dB),17.36
+Adım 7 küçültme,kareli kâğıt / INTER_NEAREST,PSNR (dB),17.71
+Adım 7 küçültme,kareli kâğıt / INTER_AREA,PSNR (dB),20.59

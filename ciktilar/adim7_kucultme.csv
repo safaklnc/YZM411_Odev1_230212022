@@ -1,0 +1,5 @@
+﻿bölge,yöntem,özgün boyut,küçük boyut,PSNR (dB),özgün std,sonuç std,dikey çizgi sayısı,çizgi kontrastı
+yazı,INTER_NEAREST,228x300,57x75,14.5,46.5,45.6,,
+yazı,INTER_AREA,228x300,57x75,17.36,46.5,31.2,,
+kareli kâğıt,INTER_NEAREST,600x400,150x100,17.71,28.0,26.8,14.0,52.6
+kareli kâğıt,INTER_AREA,600x400,150x100,20.59,28.0,14.8,23.0,26.6

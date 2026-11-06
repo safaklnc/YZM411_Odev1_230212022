@@ -1,0 +1,11 @@
+YZM411 Ödev 1 - Kaynak beyanı
+Safa Alp Bilge KILINÇ, Yapay Zeka Mühendisliği, 230212022
+Ders sorumlusu: Öğr. Gör. Melisa Gözet
+
+Veri: veri/ klasöründeki üç fotoğrafı (IMG_1670, IMG_1671, IMG_1673) 1 Kasım 2026'da kendi iPhone 14 Pro Max telefonumla çektim. Fotoğrafları telefondan kabloyla aktardım, düzenlemedim. Analizde yalnızca bu üç JPEG'i kullandım.
+
+Kullanılan kaynaklar (raporun kaynakçasıyla aynı):
+[1] R. Szeliski, Computer Vision: Algorithms and Applications, 2. baskı, Springer, 2022, §2.3.1.
+[2] R. C. Gonzalez ve R. E. Woods, Digital Image Processing, 4. baskı, Pearson, 2018, §2.3.
+[3] M. Gözet, YZM411 Bilgisayarlı Görü, Hafta 1-2 ders notu, 2026-2027 Güz dönemi (görüntünün sayısal temsili, renk uzayları, örnekleme, Nyquist ölçütü ve örtüşme).
+[4] G. Bradski, "The OpenCV library," Dr. Dobb's J. Softw. Tools, 2000; ayrıca OpenCV belgelerindeki cv2.inRange, cv2.cvtColor ve cv2.resize açıklamaları.
